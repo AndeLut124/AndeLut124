@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Green%20Pig%20small.jpg" width="25%" align="right" />
+<img src="Green%20Pig.jpg" width="25%" align="right" />
 <h2>Hello!</h2>
 <h3>I'm Dmitry, a 13-year-old python developer 🍀</h3>
 <br>
