@@ -8,5 +8,5 @@
 🌵 Активно учу английский язык.
 </pre>
 <br>
-<img src="pypng.png" width="100%" />
+<img src="pypng.png" width="80%" />
 </div>
