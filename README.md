@@ -1,5 +1,4 @@
 <div align="center">
-<img src="Green%20Pig.jpg" width="25%" align="right" />
 <h2>Hello!</h2>
 <h3>I'm Dmitry, a 13-year-old python developer 🍀</h3>
 <br>
@@ -8,6 +7,6 @@
 🌿 Сейчас продолжаю обучение на курсе Python Pro
 🌵 Активно учу английский язык.
 </pre>
-<br clear="all">
-<img src="pypng.png" width="40%" />
+<br>
+<img src="pypng.png" width="100%" />
 </div>
