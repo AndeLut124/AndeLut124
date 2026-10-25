@@ -3,7 +3,7 @@
   <h2>I'm Dmitry, a 13-year-old python developer 🍀</h2>
 </div>
 
-<img src="Green%20Pig.jpg" align="right" width="260">
+<img src="Green%20Pig%20small.jpg" align="right" width="260">
 
 ## 🐍 Окончил школу Python LVL 1 в Kodland с 1-м местом!
 
