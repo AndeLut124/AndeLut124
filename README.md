@@ -1,1 +1,4 @@
-<div align="center"><h2>Hello!</h2><h3>I'm Dmitry, a 13-year-old python developer 🍀</h3></div><br><table border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td width="60%" valign="middle" align="center"><p>🐍 <b>Окончил школу Python LVL 1 в Kodland с 1-м местом!</b></p><p>🌿 <b>Сейчас продолжаю обучение на курсе Python Pro</b></p><p>🌵 <b>Активно учу английский язык.</b></p></td><td width="40%" valign="middle" align="center"><img src="Green%20Pig.jpg" width="100%" alt="Green Pig" /></td></tr></table><br><br><div align="center"><img src="pypng.png" width="400" alt="Python Hands" /></div>
+<h1 align="center">Hello!</h1>
+<h2 align="center">I'm Dmitry, a 13-year-old python developer 🍀</h2>
+<table border="0"><tr><td valign="top"><ul><li>🐍 Окончил школу Python LVL 1 в Kodland с 1-м местом!</li><li>🌿 Сейчас продолжаю обучение на курсе Python Pro</li><li>🌵 Активно учу английский язык.</li></ul></td><td valign="top"><img src="Green%20Pig.jpg" width="280"></td></tr></table>
+<p align="center"><img src="pypng.png" width="400"></p>
