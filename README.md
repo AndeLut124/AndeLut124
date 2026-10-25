@@ -16,7 +16,6 @@
 
 <br><br>
 
-<!-- Картинка pypng в самом низу -->
 <div align="center">
   <img src="pypng.png" width="400" alt="Python Hands" />
 </div>
